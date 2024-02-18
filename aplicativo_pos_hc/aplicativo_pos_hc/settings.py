@@ -76,10 +76,15 @@ WSGI_APPLICATION = 'aplicativo_pos_hc.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'NAME': 'aplicativo_pos.sqlite3',
+        'USER': 'root',
+        'PASSWORD': 'SQLMARCE2022.',
+        'HOST': 'localhost',   # Si tu base de datos está en la misma máquina
+        'PORT': '3306',        # Puerto por defecto de MySQL
     }
 }
 
+#pruebas
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
