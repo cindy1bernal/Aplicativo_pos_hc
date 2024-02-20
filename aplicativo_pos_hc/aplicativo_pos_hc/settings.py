@@ -83,7 +83,7 @@ DATABASES = {
         'PORT': '3306',        # Puerto por defecto de MySQL
     }
 }
-## MARCELA ESPITIA CUERVIO 
+## MARCELA ESPITIA CUERVIO cindy bernal huer
 #pruebas
 
 # Password validation
