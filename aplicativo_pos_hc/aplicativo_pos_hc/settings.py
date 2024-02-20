@@ -79,13 +79,11 @@ DATABASES = {
         'NAME': 'aplicativo_pos.sqlite3',
         'USER': 'root',
         'PASSWORD': 'SQLMARCE2022.',
-        'HOST': 'localhost',   # Si tu base de datos está en la misma máquina
+        'HOST': 'localhost',   # Si tu base de datos está en la misma máquina 
         'PORT': '3306',        # Puerto por defecto de MySQL
     }
 }
-## MARCELA ESPITIA CUERVIO 
-#pruebas
-#CINDY BERNAL
+
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
