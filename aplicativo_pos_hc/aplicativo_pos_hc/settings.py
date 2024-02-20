@@ -84,7 +84,7 @@ DATABASES = {
     }
 }
 ## MARCELA ESPITIA CUERVIO cindy bernal huer
-#pruebas
+#pruebas marce spitia 
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
